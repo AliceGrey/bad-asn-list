@@ -104,6 +104,10 @@
     "Entity": "US | MIBX - MIBX, Inc., US"
   },
   {
+    "ASN": 6233,
+    "Entity": "XTOM, US"
+  },
+  {
     "ASN": 6364,
     "Entity": "ATLANTIC-NET-1 - Atlantic.net, Inc., US"
   },
@@ -698,6 +702,10 @@
   {
     "ASN": 17216,
     "Entity": "DC74-AS - DC74 LLC, US"
+  },
+  {
+    "ASN": 17243,
+    "Entity": "BYTENODE-AS, US"
   },
   {
     "ASN": 17312,
@@ -4064,6 +4072,10 @@
     "Entity": "CN | TDL-AS-AP Teleneut Datacenters, Ltd., GB"
   },
   {
+    "ASN": 137409,
+    "Entity": "GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU"
+  },
+  {
     "ASN": 137434,
     "Entity": "CN | NSIH North Star Information Hi.tech Ltd. Co., CN"
   },
@@ -4922,6 +4934,14 @@
   {
     "ASN": 213367,
     "Entity": "DE | Neoland Logic Solutions SRL"
+  },
+  {
+    "ASN": 214238,
+    "Entity": "IWIHOST, GB"
+  },
+  {
+    "ASN": 215540,
+    "Entity": "GCS-AS, GB"
   },
   {
     "ASN": 262170,
