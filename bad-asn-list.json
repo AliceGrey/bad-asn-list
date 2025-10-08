@@ -1060,6 +1060,10 @@
     "Entity": "US | Triumph Networking LLC"
   },
   {
+    "ASN": 23470,
+    "Entity": "RELIABLESITE, US"
+  },
+  {
     "ASN": 23535,
     "Entity": "HostRocket.com, Inc."
   },
@@ -3632,6 +3636,10 @@
     "Entity": "UNIVERSAL CDN (CYPRUS) LTD"
   },
   {
+    "ASN": 61125,
+    "Entity": "SABOTAGE, US"
+  },
+  {
     "ASN": 61147,
     "Entity": "CallHosted B.V."
   },
@@ -3868,6 +3876,10 @@
     "Entity": "Astute Hosting Inc."
   },
   {
+    "ASN": 63289,
+    "Entity": "ASN-MBCI"
+  },
+  {
     "ASN": 63410,
     "Entity": "PRIVATESYSTEMS - PrivateSystems Networks, US"
   },
@@ -4068,6 +4080,10 @@
     "Entity": "ONEPROVIDER-AS BrainStorm Network, Inc, CA"
   },
   {
+    "ASN": 136557,
+    "Entity": "HOST-AS-AP Host Universal Pty Ltd, AU"
+  },
+  {
     "ASN": 136945,
     "Entity": "CN | TDL-AS-AP Teleneut Datacenters, Ltd., GB"
   },
@@ -4086,6 +4102,10 @@
   {
     "ASN": 137951,
     "Entity": "ZA | Clayer Limited"
+  },
+  {
+    "ASN": 151779,
+    "Entity": "MACARNE-AS-AP"
   },
   {
     "ASN": 196645,
@@ -4314,6 +4334,10 @@
   {
     "ASN": 200147,
     "Entity": "Hosting Techniques Limited"
+  },
+  {
+    "ASN": 200373,
+    "Entity": "DREI-K-TECH-GMBH, DE"
   },
   {
     "ASN": 200454,
@@ -4752,6 +4776,10 @@
     "Entity": "GB | ADOARDGLOBALREACHLLC, GB"
   },
   {
+    "ASN": 206092,
+    "Entity": "SECFIREWALLAS, GB"
+  },
+  {
     "ASN": 206127,
     "Entity": "MD | MDA-ENVER, MD"
   },
@@ -4908,6 +4936,10 @@
     "Entity": "WHF-LTD-AS, PL"
   },
   {
+    "ASN": 210558,
+    "Entity": "SERVICES-1337-GMBH"
+  },
+  {
     "ASN": 212238,
     "Entity": "DataCamp Limited"
   },
@@ -4942,6 +4974,10 @@
   {
     "ASN": 215540,
     "Entity": "GCS-AS, GB"
+  },
+  {
+    "ASN": 215929,
+    "Entity": " DATACAMPUS, HK"
   },
   {
     "ASN": 262170,
